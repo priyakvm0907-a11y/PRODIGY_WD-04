@@ -5,6 +5,6 @@ A responsive personal portfolio website created to showcase my skills, internshi
 This portfolio highlights my programming skills, web development knowledge, projects, and experience as a Web Developer Intern at Prodigy Infotech.## Technologies Used :- HTML- CSS- JavaScript## Features include  - About Me section- Internship Experience- Skills Section- Project Showcase
 Contact Details:
 ## Contact
-Email: priya0907@gmail.com
+Email: priyakvm0907@gmail.com
 Live Demo:
 https://priyakvm0907-a11y.github.io/PRODIGY_WD-04/
